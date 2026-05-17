@@ -2,15 +2,15 @@
  * Site configuration
  */
 export const siteConfig = {
-  name: 'PDFCraft',
+  name: 'PromtWork',
   description: 'Professional PDF Tools - Free, Private & Browser-Based. Merge, split, compress, convert, and edit PDF files online without uploading to servers.',
-  url: 'https://pdfcraft.devtoolcafe.com',
+  url: 'https://promtwork.com',
   ogImage: '/images/og-image.png',
   links: {
-    github: 'https://github.com/PDFCraftTool/pdfcraft',
-    twitter: 'https://twitter.com/pdfcraft',
+    github: '',
+    twitter: '',
   },
-  creator: 'PDFCraft Team',
+  creator: 'PromtWork Team',
   keywords: [
     'PDF tools',
     'PDF editor',
@@ -22,12 +22,12 @@ export const siteConfig = {
     'online PDF editor',
     'browser-based PDF',
     'private PDF processing',
+    'PromtWork',
   ],
-  // SEO-related settings
   seo: {
-    titleTemplate: '%s | PDFCraft',
-    defaultTitle: 'PDFCraft - Professional PDF Tools',
-    twitterHandle: '@pdfcraft',
+    titleTemplate: '%s | PromtWork',
+    defaultTitle: 'PromtWork - Professional PDF Tools',
+    twitterHandle: '@promtwork',
     locale: 'en_US',
   },
 };
