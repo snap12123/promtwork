@@ -22,6 +22,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <meta name="color-scheme" content="light dark" />
+        <meta name="google-site-verification" content="vnbQmpyMiSsbXYA-bEWe-tm5FQUGlr6rWFA_qTQH1jk" />
         <style dangerouslySetInnerHTML={{ __html: 'html{scrollbar-gutter:stable}' }} />
         <script
           dangerouslySetInnerHTML={{
